@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ruff_cache/
+
+# Local working files. Never published.
+*.apk
+decompiled/
